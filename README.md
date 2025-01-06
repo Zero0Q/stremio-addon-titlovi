@@ -3,8 +3,7 @@ This is an unofficial Stremio addon that returns subtitle results from [Titlovi.
 
 ## Access
 Simply open the following URL, configure your Titlovi.com credentials and install the addon.
-
-https://titlovi-unofficial-addon-production.up.railway.app/configure
+https://stremio-addon-titlovi.up.railway.app/configure
 
 ## Running locally
 Ensure you have Go installed. To run locally, it is necessary to just run the following commands:
